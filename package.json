@@ -1,0 +1,16 @@
+{
+  "name": "crud_board_last",
+  "version": "1.0.0",
+  "description": "CRUD Board & Comment (Node.js + Express + MongoDB)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "boleesystem@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
